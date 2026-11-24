@@ -1,6 +1,6 @@
 # Customer and Credit Card Analytics — Silent Attrition & Share of Wallet Optimization
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Interactive%20Dashboard-brightgreen?style=for-the-badge&logo=googlechrome)](https://adityakasara.github.io/Synchrony_One/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Interactive%20Dashboard-brightgreen?style=for-the-badge&logo=googlechrome)](https://j-lochan.github.io/Synchrony_One/)
 [![Executive PDF](https://img.shields.io/badge/Executive%20Case%20Study-PDF%20Report-red?style=for-the-badge&logo=adobeacrobatreader)](HSIC_SOLUTION_Executive_Findings.pdf)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?style=for-the-badge&logo=jupyter)](notebooks/analysis.ipynb)
@@ -11,7 +11,7 @@ An institutional-grade analytics solution for detecting **Silent Attrition**, di
 ---
 
 ## 🚀 Live Interactive Dashboard & Case Study
-- 👉 **Live Web Application:** [https://adityakasara.github.io/Synchrony_One/](https://adityakasara.github.io/Synchrony_One/)
+- 👉 **Live Web Application:** [https://j-lochan.github.io/Synchrony_One/](https://j-lochan.github.io/Synchrony_One/)
 - 📄 **Judge-Facing Executive PDF:** [HSIC_SOLUTION_Executive_Findings.pdf](HSIC_SOLUTION_Executive_Findings.pdf)
 
 ---
@@ -120,7 +120,7 @@ Synchrony_Hackathon/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Adityakasara/Synchrony_One.git
+git clone https://github.com/J-Lochan/Synchrony_One.git
 cd Synchrony_One
 ```
 
@@ -153,7 +153,7 @@ jupyter notebook notebooks/analysis.ipynb
 
 ## 🔍 Featured Customer Profiles to Explore
 
-Search these representative account IDs on the [Live Dashboard](https://adityakasara.github.io/Synchrony_One/):
+Search these representative account IDs on the [Live Dashboard](https://j-lochan.github.io/Synchrony_One/):
 
 | Account ID | Profile & Trend | Diagnosed Root Cause | Next Best Offer Triggered |
 | :---: | :--- | :--- | :--- |
